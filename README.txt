@@ -9,4 +9,7 @@ index.html - The Index document for the website.
 /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 /css - CSS files for the website.
 
+You can access the URL as:
+http://projectonebucketkhang.s3-website-us-east-1.amazonaws.com/
+
 cloudfront: https://d385a6p5fzbbni.cloudfront.net/
